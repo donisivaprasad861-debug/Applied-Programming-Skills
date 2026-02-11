@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/donisivaprasad861-debug/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/donisivaprasad861-debug/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/donisivaprasad861-debug/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/donisivaprasad861-debug/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/donisivaprasad861-debug/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
