@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/donisivaprasad861-debug/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/donisivaprasad861-debug/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0219-contains-duplicate-ii](https://github.com/donisivaprasad861-debug/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/donisivaprasad861-debug/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/donisivaprasad861-debug/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/donisivaprasad861-debug/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/donisivaprasad861-debug/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/donisivaprasad861-debug/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/donisivaprasad861-debug/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/donisivaprasad861-debug/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/donisivaprasad861-debug/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
